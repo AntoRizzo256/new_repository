@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 primera edicion del documento
 
+=======
+hola
+>>>>>>> desarrollo
